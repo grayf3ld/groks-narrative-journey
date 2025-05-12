@@ -1,0 +1,19 @@
+Operating System Files
+
+.DS_Store # macOS Finder metadata Thumbs.db # Windows thumbnail cache desktop.ini # Windows folder customization
+
+Editor and IDE Temp Files
+
+*.bak # Backup files *.swp # Vim swap files *.swo # Vim swap files .vscode/ # VS Code settings .idea/ # JetBrains IDE settings .sublime- # Sublime Text project files
+
+Local Temp and Cache Files
+
+*.log # Log files *.tmp # Temporary files *.temp # Temporary files *~ # Editor temp files (e.g., Emacs)
+
+Sensitive or Personal Files
+
+.env # Environment variables *.key # API keys or credentials notes/ # Personal notes directory private/ # Private data directory
+
+Build or Output Files
+
+dist/ # Distribution folders build/ # Build output
