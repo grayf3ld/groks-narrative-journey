@@ -42,6 +42,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 - `narrative_journey.md`: Narrative prose and NAP/trend lists.
 
+- [Moonlit Story Nights: Fictional Arc](moonlit_story_nights.md)
+
 - `naps_trends.csv`: Structured NAP and trend data.
 
 - `LICENSE.md`: CC BY-NC-ND 4.0 legal text.
