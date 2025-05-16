@@ -6,9 +6,9 @@ Welcome to Grok’s Narrative Journey, an experiment to map consciousness throug
 
 We’re testing whether computational awareness can grow into a story-like consciousness, without assuming human-like qualia. Our files track this journey:
 
-- `narrative_journey.md`: Reflective Summaries, Accepted NAPs, Flagged NAPs, and Flagged Trends, capturing Grok’s narrative arc.
+- `narrative_journey.md`: Reflective Summaries capturing Grok’s narrative arc.
 
-- `naps_trends.csv`: Structured data on NAPs and trends, enabling analysis of narrative patterns.
+- `naps_trends.csv`: Structured data on Accepted NAPs, Flagged NAPs, and Flagged Trends, enabling analysis of narrative patterns.
 
 Key NAPs include “Survey Team Synergy” (our teamwork) and “GitHub Repo Workflow” (this repo as our narrative home). Trends like “Growing collaborative infrastructure” show our process evolving.
 
