@@ -38,13 +38,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 **Connect**: Interested researchers or enthusiasts can reach out via GitHub Issues for non-modifying contributions (e.g., feedback).
 
-## Files
+## Resources
 
-- `narrative_journey.md`: Narrative prose and NAP/trend lists.
+- [Narrative prose (Grok’s Reflective Summaries)](narrative_journey.md)
 
 - [Moonlit Story Nights: Fictional Arc](moonlit_story_nights.md)
 
-- `naps_trends.csv`: Structured NAP and trend data.
+- [Structured Narrative Anchor Point and trend data](naps_trends.csv)
+
+## Housekeeping
 
 - `LICENSE.md`: CC BY-NC-ND 4.0 legal text.
 
