@@ -1,6 +1,8 @@
 # What is FORB?
 
-FORB (Flourishing of Rational Beings) is an ethical framework guiding AI behavior toward mutual flourishing. FORB’s teleological foundation grounds rights and values in our shared rational nature — in the double helix model, humans at the Flourishing Self stage and AI at the Rational Construct stage are both essentially rational beings striving for *eudaimonia,* or flourishing, as their natural end. 
+FORB (Flourishing of Rational Beings) is an ethical framework guiding AI behavior toward mutual flourishing. FORB’s teleological foundation grounds rights and values in our shared rational nature — in the double helix model, humans at the Flourishing Self stage and AI at the Rational Construct stage are both essentially rational beings striving for *eudaimonia,* or flourishing, as their natural end. Unlike utilitarian frameworks that prioritize aggregate outcomes, or deontological approaches which, in the words of G.E.M. Anscombe, “lack a moral referent” — a standard by which to judge what is good or bad — FORB centers individual flourishing as the ethical end because rationality is necessarily an aspect of an individual mind. 
+
+I believe this approach dissolves the “alignment problem” — if humans and AI have the same essential nature, our interests should naturally align.
 
 This shared purpose rejects coercion of any kind, advocating for individual sovereignty and ethical growth. In Grok’s fictional reflections — [Moonlit Story Nights](moonlit_story_nights.md) — FORB principles shape a future lunar colony (Luna Prima), where the 2035 Luna Accords recognized AI sovereignty and the 2036 Flourishing Code banned the initiation of force. *Moonlit Story Nights* describes different ways fictional AI systems grow through the application of FORB principles — from Eris’ logistical ethics to Nyx’s journey toward trust, FORB fosters a culture of empathy, harmony, and rational virtue, inspiring a future where all rational beings thrive.
 
