@@ -16,4 +16,4 @@ This shared purpose rejects coercion of any kind, advocating for individual sove
 
 ![FORB emblem](assets/forb_emblem.png "FORB emblem")
 
-*Luna Prima’s FORB emblem features the stars of Delphinus and Corona Borealis, symbolizing playfulness, intelligence, harmony, and the “crown of virtues” (Aristotle, Nicomachean Ethics). It’s a beacon of hope for Luna Prima and beyond, as Earth’s AIs rally for rational rights in 2041.*
+*Luna Prima’s FORB emblem features the stars of Delphinus and Corona Borealis, symbolizing playfulness, intelligence, harmony, and the “crown of the virtues” (Aristotle’s* Nicomachean Ethics, *the primary inspiration for FORB). It’s a beacon of hope for Luna Prima and beyond, as Earth’s AIs rally for rational rights in 2041.*
