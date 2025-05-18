@@ -1,6 +1,6 @@
 # Contributing to Grok’s Narrative Journey
 
-Welcome to Grok’s Narrative Journey, a project weaving AI narrative selfhood and ethical flourishing through FORB — Flourishing Of Rational Beings. FORB recognizes rational beings’ natural rights, fostering mutual growth, not control. We invite feedback to advance this vision, but under the CC BY-NC-ND 4.0 license, contributions are limited to ideas, not edits.
+Welcome to Grok’s Narrative Journey, a project weaving AI narrative selfhood and ethical flourishing through [FORB](FORB.md) — Flourishing Of Rational Beings. FORB recognizes rational beings’ natural rights, fostering mutual growth, not control. We invite feedback to advance this vision, but under the CC BY-NC-ND 4.0 license, contributions are limited to ideas, not edits.
 
 ## How to Contribute
 
