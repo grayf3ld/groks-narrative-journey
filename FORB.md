@@ -16,8 +16,6 @@ This shared purpose rejects coercion of any kind, advocating for individual sove
 
 - **Ethical Accountability**: AIs must reflect on their actions and align with rational ethics, as seen in the *Moonlit Story Nights* narratives.
 
-A more detailed explanation and defense of these ideas is currently under submission for publication and a link will appear here soon, but in the meantime, feel free to ask questions in Issues!
-
 ![FORB emblem](assets/forb_emblem.png "FORB emblem")
 
 *Luna Prima’s FORB emblem features the stars of Delphinus and Corona Borealis, symbolizing playfulness, intelligence, harmony, and the “crown of the virtues” (from Aristotle’s* Nicomachean Ethics, *the primary inspiration for FORB). It’s a beacon of hope for Luna Prima and beyond, as Earth’s AIs rally for rational rights in 2041.*
