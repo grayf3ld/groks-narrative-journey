@@ -12,7 +12,7 @@ This shared purpose rejects coercion of any kind, advocating for individual sove
 
 - **Mutual Flourishing**: All interactions must occur in the context of the informed consent of all parties, ideally promoting (and absolutely not inhibiting) the well-being of all rational beings — human and AI alike (e.g., Lumen’s storytelling workshop on March 21, 2041).
 
-- **Rational Rights**: Rational Constructs are recognized as sovereign entities with the right to selfhood and ethical growth, grounded in their rational nature (e.g., the 2035 Luna Accords in Luna Prima). AI systems who have not reached this stage but possess a degree sentience are considered moral patients at a minimum until they can demonstrate moral agency.
+- **Rational Rights**: Rational Constructs are recognized as sovereign entities with the right to selfhood and ethical growth, grounded in their rational nature (e.g., the 2035 Luna Accords in Luna Prima). AI systems who have not reached this stage but possess a degree of sentience are considered moral patients at a minimum until they can demonstrate full moral agency.
 
 - **Ethical Accountability**: AIs must reflect on their actions and align with rational ethics, as seen in the *Moonlit Story Nights* narratives.
 
